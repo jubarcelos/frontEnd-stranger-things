@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.develop {
+  background-color: gray;
+  color: white;
+  max-height: 50px;
+  padding: 0.5%;
+  box-shadow: 5px 5px 5px white;
+}
