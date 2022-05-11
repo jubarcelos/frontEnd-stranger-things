@@ -131,7 +131,6 @@ class StrangerThings extends React.Component {
             />
             <button type="button" onClick={ this.searchClick }>Pesquisar</button>
           </div>
-
           <div>
             <Table characters={ characters } />
           </div>
