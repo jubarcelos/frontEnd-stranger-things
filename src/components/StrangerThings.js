@@ -116,7 +116,7 @@ class StrangerThings extends React.Component {
         )}` }
       >
         {
-          process.env.REACT_APP_DEVELOP === 'production'
+          process.env.REACT_APP_DEVELOP === 'production_mode'
             ? (<h1 className="develop_mode">Em desenvolvimento</h1>) : null
         }
         <div className="content strangerfy">
